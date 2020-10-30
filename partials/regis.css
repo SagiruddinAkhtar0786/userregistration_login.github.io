@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+}
+.center{
+    width: 40%;
+    margin: 50px auto;
+    border: 2px solid red;
+}
+.user{
+    margin: 0 auto;
+}
+.heading {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 20px;
+}
+button.btn {
+    width: 100%;
+    padding: 6px;
+    margin-top: 20px;
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: darkblue;
+    color: white;
+}
+label{
+
+    font-weight: 600;
+    font-size: 21px;
+}
+input{
+    border-radius: 5px;
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+}
+input#password {
+    margin-left: 4px;
+}

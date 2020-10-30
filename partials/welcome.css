@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+}
+.alert{
+    width: 60%;
+    
+    margin: 30px auto;
+    text-align: center;
+    color: rgb(12, 52, 182);
+    background-color: lime;
+}
+.alert-heading{
+    font-size: 30px;
+    font-weight: 700;
+}
+p{
+    font-size: 20px;
+}
